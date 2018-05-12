@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/109
     wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
 description: To the little house -- A charm -- The 5:42 -- Bayberry candles.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23196#Songs-for-a-Little-House
 gutenberg_issued: '2007-10-25'
 gutenberg_type: Text
 identifiers:
